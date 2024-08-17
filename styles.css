@@ -1,0 +1,35 @@
+body
+{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #A28B55;
+
+}
+h1
+{
+    color: #106634;
+}
+h2
+{
+    color: #222831;
+}
+h3
+{
+    color: #E7FBE6;
+}
+p
+{
+
+    color: beige;
+
+}
+.container
+{
+
+    max-width: 500px;
+
+}
